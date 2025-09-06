@@ -110,3 +110,5 @@ It demonstrates practical expertise in:
 - App Development (Streamlit + visualization)
 
 **The final deliverable is Company Atlas, a project showcasing the ability to take raw industry data and transform it into an intelligent, user-friendly application integrating AI,NLP and ML.**
+
+Note: Some csv files such as the main dataset files which were initially used are not uploaded in this repo due to extremely large size, however `final dataset.csv` is the one required for running on provided streamlit app in file `final_app.py` 
